@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c31359bf-877a-42e8-9dbb-edb5a467fda4": {
+      "ProjectGuid": "c31359bf-877a-42e8-9dbb-edb5a467fda4",
+      "DisplayName": "CafeManager",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

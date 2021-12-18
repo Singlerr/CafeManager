@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S+qI+wnmORkgkokrhjvvC1VGXx2HpYoYnqK+NUIp7FFukzg8W2ZpzQ/S2csFQlJiL1oi7LcQqxXPgWfWh2Zz4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Singlerr\\source\\repos\\CafeManager\\CafeManager\\CafeManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Singlerr\\.nuget\\packages\\htmlagilitypack\\1.11.39\\htmlagilitypack.1.11.39.nupkg.sha512"
+  ],
+  "logs": []
+}
